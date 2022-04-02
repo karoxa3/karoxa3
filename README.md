@@ -1,6 +1,6 @@
 ## Hey, My name is Karo
 
-I'm inspired by coding and i'm a frontend developer.
+I'm inspired by coding and i'm a fullstack js developer.
 
 My skills:
 ----
